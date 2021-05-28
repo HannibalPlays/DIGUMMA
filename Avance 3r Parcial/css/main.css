@@ -1,0 +1,119 @@
+body {
+    font-family: Helvetica;
+    padding: 0px;
+    margin: 0px;
+}
+
+ul {
+    background-color: rgb(0, 0, 0);
+    padding: auto;
+    margin: 0px;
+    position: sticky;
+}
+
+li {
+    width: 200px;
+    display: inline-block;
+    line-height: 100px;
+}
+
+a {
+    text-decoration: none;
+    display: block;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+a:hover {
+    text-transform: capitalize;
+    background-color: rgb(255, 255, 255);
+    color: black;
+    display: grid;
+    border: black;
+}
+
+nav {
+    height: 100px;
+    position: sticky;
+    top: 0;
+    left: 0;
+    width: 100%;
+}
+
+h1 {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 900!important;
+    left: auto;
+}
+
+h4 {
+    text-transform: uppercase;
+    color: #000000;
+    font-size: 40px;
+    font-weight: 900!important;
+    left: auto;
+}
+
+h3 {
+    text-transform: uppercase;
+    color: #ffffff;
+    font-size: 40px;
+    font-weight: 900!important;
+    left: auto;
+}
+
+.div-1 {
+    text-align: center;
+    width: fit-content;
+    height: 300px;
+    background-color: rgb(0, 0, 0);
+}
+
+.div-2 {
+    text-align: center;
+    width: fit-content;
+    height: 400px;
+    background-color: rgb(0, 0, 0);
+}
+
+p {
+    font-size: 19px;
+}
+
+img {
+    background-color: #ffffff;
+}
+
+.div-4 {
+    text-align: center;
+    color: #ffffff;
+    width: 1580x;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+}
+
+.div-5 {
+    text-align: center;
+    color: #ffffff;
+    width: 1580x;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+}
+
+.div-6 {
+    text-align: center;
+    color: #ffffff;
+    width: 1580x;
+    height: 150px;
+    background-color: rgb(0, 0, 0);
+    margin: auto;
+}
+
+p {
+    color: #000000;
+    font-family: Helvetica;
+}

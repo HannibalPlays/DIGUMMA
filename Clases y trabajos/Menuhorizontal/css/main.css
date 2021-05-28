@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: Helvetica;
 }
 
 nav {
@@ -40,4 +40,12 @@ h2 {
     font-size: 35px;
     font-family: impact;
     text-transform: uppercase;
+}
+
+h3 {
+    color: brown;
+}
+
+b {
+    color: rgb(0, 0, 0);
 }
